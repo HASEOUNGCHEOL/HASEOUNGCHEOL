@@ -1,0 +1,18 @@
+.kospi-name:hover{
+    cursor: pointer;
+}
+
+@font-face {
+    font-family: 'TTLaundryGothicB';
+    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/2403-2@1.0/TTLaundryGothicB.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+}
+
+* {
+    font-family: 'TTLaundryGothicB';
+    font-size: medium;
+    color: rgb(255, 0, 0);
+    background-color: rgb(156, 228, 179);
+}
+
